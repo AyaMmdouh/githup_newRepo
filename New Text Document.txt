@@ -1,0 +1,49 @@
+  <div class="paragraphs">
+      <div id="p1">
+        <span style="color: black;">
+          <b>
+            See photos and updates &nbsp; &nbsp; &nbsp;
+          </b>
+        </span>
+        <span style="color: grey;">
+          from friends in News Feed.
+        </span>
+      </div>
+      <div id="p2">
+        <span style="color: black;">
+          <b>
+            Share what's new &nbsp; &nbsp; &nbsp;
+          </b>
+        </span>
+        <span style="color: grey;">
+          in your life on your Timeline.
+        </span>
+      </div>
+      <div id="p3">
+        <span style="color: black;">
+          <b>
+            Find more &nbsp; &nbsp; &nbsp;
+          </b>
+        </span>
+        <span style="color: grey;">
+          of what you're looking for with Facebook Search.
+        </span>
+      </div>
+-------------------------------------------------------
+/* pargraph  style*/
+ .home .paragraphs div{
+    display:block;
+}
+.home .paragraphs div{
+     margin-top: 50px;
+}
+.home .paragraphs .p1{
+    margin-top: 10px
+}
+.home .paragraphs span{
+   margin-left: 20px;
+}
+.home .paragraphs p1 ,p2 ,p3{
+    display:inline-block;
+}
+
